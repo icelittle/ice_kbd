@@ -46,10 +46,10 @@
         ````
         qmk_firmware/.build/xxx.hex
         ````
-   3. 软件烧录方法（目前只试过windows烧录工具）
+   3. MCU工具烧录（目前只有windows烧录工具）
       1. 打开WCH烧录工具
       2. 断开键盘usb，在pcb上找到boot、gnd，用镊子保持boot和gnd连接状态，键盘插usb上电
-   4. 按下图步骤烧录
+      3. 按下图步骤烧录
         ![图片](download.png)
 5. 调试（目前只试过windows下ide调试）
    1. ide调试
