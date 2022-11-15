@@ -3,7 +3,7 @@
    1. 硬件：
       1. ice键盘或开发板
       2. 调试器（调试用，如果只烧录不需要）。淘宝搜“wch link”，10多块钱包邮。随便贴个链接供参考：[wch-link](https://item.taobao.com/item.htm?spm=a230r.1.14.11.79ec63dbcIxyB3&id=645437885121&ns=1&abbucket=6#detail)
-   2. 代码权限：仓库目前在gitlab，最多只能加5个人，需要的联系我。后期如果参与人数多会迁移仓库
+   2. 代码权限：仓库已迁移至github，需要代码的github注册邮箱发我添加。
         ````
         https://github.com/icelittle/qmk_firmware
         https://github.com/icelittle/CH583EVT
